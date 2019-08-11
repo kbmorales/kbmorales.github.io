@@ -1,4 +1,5 @@
         name: Ken B Morales
         markdown: kramdown
+        highlighter: pygments
         permalink: /blog/:year/:month/:day/:title
         

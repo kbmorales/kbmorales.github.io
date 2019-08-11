@@ -4,5 +4,5 @@ title: Ken B Morales
 ---
 
 <div class="blurb">
-  		<h1>Hi there, I'm Ken!</h1>
+  		<h3>Hi there, I'm Ken!</h3>
 </div><!-- /.blurb -->
