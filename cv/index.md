@@ -4,7 +4,7 @@ title: cv
 description: Current CV for Ken B Morales, data scientist
 ---
 
-<a href="/files/kmorales_cv.pdf" class="btn btn-default pull-right" title="Download CV as PDF" target = "_blank">Download</a>
+<a href="/files/kbmorales_cv.pdf" target = "_blank">Download</a>
 
 ### Kenneth B. Morales
 
