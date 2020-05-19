@@ -5,5 +5,4 @@ description: > # this means to ignore newlines until "show_exerpts:"
   Ken B Morales CV.
 show_excerpts: true # set to true to show excerpts on the homepage
 markdown: kramdown
-
-theme: jekyll-theme-minimal
+remote_theme: daattali/beautiful-jekyll
