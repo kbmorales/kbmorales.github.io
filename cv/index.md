@@ -6,14 +6,14 @@ description: Current CV for Ken B Morales, data scientist
 
 <a href="/files/kmorales_cv.pdf" class="btn btn-default pull-right" title="Download CV as PDF" target = "_blank">Download</a>
 
-# Kenneth B. Morales
+### Kenneth B. Morales
 
-## EDUCATION
+#### EDUCATION
 
 * M.S., Public Health. Johns Hopkins Bloomberg School of Public Health (2018).
 * B.A., Anthropology of Science. Brown University (2009).
 
-## WORK
+#### WORK
 
 * Lead data scientist. Problem Forward: Baltimore, MD (Nov 2018, ongoing).
 * Research analyst. FORECAST multi-city study of fentanyl overdose; SAPPHIRE / EMERALD studies of sex workers. Johns Hopkins Bloomberg School of Public Health: Baltimore, MD (May 2017, ongoing).
@@ -21,12 +21,12 @@ description: Current CV for Ken B Morales, data scientist
 * Client Services Coordinator. Moveable Feast: Baltimore, MD (Feb 2011 – May 2012).
 * Team Leader, Wildlands Firefighter. AmeriCorps National Civilian Community Corps (May 2009 – Aug 2010).
 
-## AWARDS
+#### AWARDS
 
 - President's Volunteer Service Award – Gold (2010)
 - Congressional Award – Bronze (2010)
 
-## RESEARCH
+#### RESEARCH
 
 - Fentanyl, drug checking, and overdose prevention. Susan Sherman, PI (2017, ongoing).
 - Condom use, pornography consumption, and HIV pre-exposure prophylaxis. Independent project (2017, ongoing).
@@ -34,14 +34,14 @@ description: Current CV for Ken B Morales, data scientist
 - Drosophila genomics and cell senescence. Stephen Helfand, PI (2005-2006).
 - Plant phloem genomics. Brian Ayre, PI (2004).
 
-## SELECTED PUBLICATIONS
+#### SELECTED PUBLICATIONS
 
-### Applications
+##### Applications
 
 - “Common Health” Web application. December 2018. Available online at: [problemforward.shinyapps.io/commonhealth/](https://problemforward.shinyapps.io/commonhealth/)
 - “Fatal Encounters with Police” Web application. Dec 2017. Available online at: [jhubiostatistics.shinyapps.io/policeviolence/](https://jhubiostatistics.shinyapps.io/policeviolence/)
 
-### Research articles
+##### Research articles
 
 - “Preference for fentanyl and its correlates among people who use illicit opioids in three United States cities.” Drug and Alcohol Dependence (in press).
 - “Willingness to use safer consumption spaces among opioid users at high risk of fentanyl overdose in Baltimore, Providence, and Boston.” Journal of Urban Health (2019) 96(3) 353-366.
@@ -49,7 +49,7 @@ description: Current CV for Ken B Morales, data scientist
 - “Acceptability of implementing community-based drug checking services for people who use drugs in three United States cities: Baltimore, Boston and Providence.” International Journal of Drug Policy (2019) 68 46-53.
 - “Fentanyl Overdose Reduction Checking Analysis Study: Executive Summary.” Report. Feb 2018. Available online at: [americanhealth.jhu.edu/fentanyl.html](http://americanhealth.jhu.edu/fentanyl.html)
 
-### Lectures
+##### Lectures
 
 - “Detecting Fentanyl in Street Drugs Using Fentanyl Testing Strips and Portable Machines” Harm Reduction Coalition Conference, New Orleans, LA, 2018.
 - “Thinking About Pornography and Men’s Studies.” American Men’s Studies Association Conference, St. Paul, MN, 2018.
