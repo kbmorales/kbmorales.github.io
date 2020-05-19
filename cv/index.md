@@ -1,6 +1,6 @@
 ---
 layout: default
-title: cv
+title: CV
 description: Current CV for Ken B Morales, data scientist
 ---
 
