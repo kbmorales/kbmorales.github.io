@@ -5,4 +5,10 @@ description: > # this means to ignore newlines until "show_exerpts:"
   Ken B Morales CV.
 show_excerpts: true # set to true to show excerpts on the homepage
 markdown: kramdown
+
 remote_theme: daattali/beautiful-jekyll
+
+# Apply this change to _config.yml file
+kramdown:
+  # parse markdown inside block-level HTML tag
+  parse_block_html: true
