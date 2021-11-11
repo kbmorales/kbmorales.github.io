@@ -8,7 +8,10 @@ markdown: kramdown
 
 remote_theme: daattali/beautiful-jekyll
 
-# Apply this change to _config.yml file
 kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
   # parse markdown inside block-level HTML tag
   parse_block_html: true
