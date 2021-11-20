@@ -47,7 +47,7 @@ h5 {
 }
 
 p {
-    margin-top:0;
+    margin:0;
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
@@ -82,7 +82,7 @@ ul.posts li {
     /* display: flex; */
     display: grid;
     grid-template-columns: 50% 50%;
-    grid-gap: 10px;
+    grid-gap: 50px;
     clear: both;
     padding: 10px;
     /* font-size: 1.6em; */
@@ -107,16 +107,10 @@ img {
     display: block;
 }
 
-img + em {
-    font-size: .6em;
-    padding: 20px;
-}
-
 img[src*="#scaled"] {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 70%;
     padding: 20px;
 }
 
@@ -133,4 +127,38 @@ img[src*="#scaled"] {
     letter-spacing: 0.3px;
     text-transform: uppercase;
     color: #0A2447;
+}
+
+.caption {
+    font-size: .6em;
+    margin-bottom: 30px;
+}
+
+p.copy {
+    margin-bottom: 20px;
+}
+
+/* Projects page */
+.project {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.project p {
+    font-size: 1.25em;
+    margin-bottom: 20px;
+}
+
+/* TODO: for mobile, change flex-direction to column and flex-flow to wrap*/
+
+.project-description {
+    flex-grow: 1;
+    flex: 0 0 40%;
+}
+
+.project-image {
+    flex-grow: 2;
+    flex: 0 0 60%;
+    margin-left: 30px;
 }
