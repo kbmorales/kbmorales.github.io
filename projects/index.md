@@ -1,6 +1,6 @@
 ---
 layout: default
-title: projects
+title: Selected Work - Ken Morales
 description: projects
 published: false
 ---
