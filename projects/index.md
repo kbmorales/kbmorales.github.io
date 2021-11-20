@@ -15,7 +15,7 @@ description: projects
 A web app done in R with the Shiny framework for visualizing the online database [Fatal Encounters](https://fatalencounters.org/){:target="_blank"}, a crowd-sourced effort to document all deaths where police are present. Computes relative risks of police-involved death by race.
 </div>
 <div class="project-image">
-![Fatal Encounters Data Viz 2](/files/projects/fe_viz_2.PNG#scaled)
+[![Fatal Encounters Data Viz 2](/files/projects/fe_viz_2.PNG#scaled)](https://blacksheepboy.shinyapps.io/fatalencounters/){:target="_blank"}
 </div>
 </div>
 
@@ -28,7 +28,7 @@ A web app done in R with the Shiny framework for visualizing the online database
 An investigation into the 22 million comments filed online to the [Federal Communications Commission's proposed 2017 rule change](https://www.fcc.gov/restoring-internet-freedom-comments-wc-docket-no-17-108){:target="_blank"} regarding "net neutrality," revealing a massive astroturfing campaign lead by the largest telecom companies in the United States. We found that 18 million of these comments had indications that they were fake.
 </div>
 <div class="project-image">
-![FCC Report](/files/projects/fcc_1.PNG#scaled)
+[![FCC Report](/files/projects/fcc_1.PNG#scaled)](https://ag.ny.gov/press-release/2021/attorney-general-james-issues-report-detailing-millions-fake-comments-revealing){:target="_blank"}
 </div>
 </div>
 
@@ -43,7 +43,7 @@ A collaboration with [Open Justice Baltimore](https://openjusticebaltimore.org/)
 </div>
 
 <div class="project-image">
-![GTTF Cases Timeline](/files/projects/gttf_cases_timeline.png#scaled)
+[![GTTF Cases Timeline](/files/projects/gttf_cases_timeline.png#scaled)](https://github.com/openjusticebaltimore/gttf){:target="_blank"}
 </div>
 </div>
 
@@ -52,12 +52,12 @@ A collaboration with [Open Justice Baltimore](https://openjusticebaltimore.org/)
 <div class="project-description">
 ### Payroll Protection Program R Package
 
-<span class="label">[R package](https://github.com/kbmorales/PPP) (September 2020)</span>
+<span class="label">[R package](https://github.com/kbmorales/PPP) (Sep 2020)</span>
 
 As part of a collaboration between [DataKind](https://www.datakind.org/){:target="_blank"} and the [National Press Foundation](https://nationalpress.org/){:target="_blank"}, I developed a R package that reads and cleans Payment Protection Program loans data released for 2020 for easy analysis.
 </div>
 <div class="project-image">
-![PPP R Package](/files/projects/ppp_r_pkg_1.PNG#scaled)
+[![PPP R Package](/files/projects/ppp_r_pkg_1.PNG#scaled)](https://github.com/kbmorales/PPP){:target="_blank"}
 </div>
 </div>
 
@@ -74,6 +74,6 @@ A [Bloomberg American Health Initiative](https://americanhealth.jhu.edu/){:targe
 Articles I co-authored that came out of this research are listed in my [resume](/cv/index.html#selected-publications).
 </div>
 <div class="project-image">
-![PPP R Package](/files/projects/fentanyl_1.PNG#scaled)
+[![PPP R Package](/files/projects/fentanyl_1.PNG#scaled)](https://americanhealth.jhu.edu/fentanyl){:target="_blank"}
 </div>
 </div>
