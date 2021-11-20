@@ -8,9 +8,9 @@ description: projects
 
 ---
 
-### Fatal Encounters
+### Fatal Encounters: Data Visualization
 
-*Web application, November 2021*
+<span class="label">Web app (November 2021)</span>
 
 A web app done in R with the Shiny framework for visualizing the online database [Fatal Encounters](https://fatalencounters.org/), a crowd-sourced effort to document all deaths where police are present. Computes relative risks of police-involved death by race.
 
@@ -22,8 +22,7 @@ Available online at:
 ---
 
 ### Net Neutrality: Fake Comments
-
-*Report, May 2021*
+<span class="label">Report (May 2021)</span>
 
 An investigation into the 22 million comments filed online to the [Federal Communications Commission's proposed 2017 rule change](https://www.fcc.gov/restoring-internet-freedom-comments-wc-docket-no-17-108) regarding "net neutrality," revealing a massive astroturfing campaign lead by the largest telecom companies in the United States. We found that 18 million of these comments had indications that they were fake.
 
@@ -36,7 +35,7 @@ Available online at:
 
 ### Gun Trace Task Force Investigation
 
-*Project, Dec 2020*
+<span class="label">Project (Dec 2020)</span>
 
 A collaboration with [Open Justice Baltimore](https://openjusticebaltimore.org/) to investigate the prevalence of Baltimore Police Department's [Gun Trace Task Force indicted officer testimony](https://data.baltimoresun.com/news/gun-trace-overview/) in State of Maryland judicial cases.
 
@@ -49,7 +48,7 @@ Available online at:
 
 ### Payroll Protection Program R Package
 
-*R package, September 2020*
+<span class="label">R package (September 2020)</span>
 
 As part of a collaboration between [DataKind](https://www.datakind.org/) and the [National Press Foundation](https://nationalpress.org/), I developed a R package that reads and cleans Payment Protection Program loans data released for 2020 for easy analysis.
 
@@ -62,7 +61,7 @@ Available online at:
 
 ### Fentanyl Drug Checking Study
 
-*Report, March 2018*
+<span class="label">Report (Mar 2018)</span>
 
 A [Bloomberg American Health Initiative](https://americanhealth.jhu.edu/) study of 335 people who use drugs in Baltimore, Boston, and Providence regarding their drug use and overdose history, experiences with fentanyl, and interest in drug checking.
 

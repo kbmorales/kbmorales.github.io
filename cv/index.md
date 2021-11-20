@@ -8,6 +8,8 @@ description: Current resume for Ken B Morales, data scientist
 
 ### Kenneth B. Morales
 
+---
+
 #### EDUCATION
 
 **M.S., Public Health**  
@@ -16,26 +18,30 @@ Johns Hopkins School of Public Health (2018)
 **B.A., Anthropology of Science**  
 Brown University (2009)
 
+---
+
 #### RECENT WORK
 
-**Data Scientist**  
+**Data scientist**  
 Office of the New York State Attorney General: New York, NY (Jan 2021, ongoing)  
 
-**Lead data scientist**  
+**Data scientist**  
 Problem Forward: Baltimore, MD (Nov 2018 - Dec 2020)
 
 **Research analyst**  
 Johns Hopkins Bloomberg School of Public Health: Baltimore, MD (Mar 2017 - Dec 2020)
 
+---
+
 #### RESEARCH
 
-Fentanyl, drug checking, and overdose prevention. Susan Sherman, PI (2017 - 2020)  
-Street-based sex workers and interactions with the police. Susan Sherman, PI (2017 - 2020)  
-Condom use, pornography consumption, and HIV pre-exposure prophylaxis. Independent project (2017)  
-Drosophila genomics and cell senescence. Stephen Helfand, PI (2005-2006)  
-Plant phloem genomics. Brian Ayre, PI (2004)  
+- Fentanyl, drug checking, and overdose prevention. Susan Sherman, PI (2017 - 2020)  
+- Street-based sex workers and interactions with the police. Susan Sherman, PI (2017 - 2020)  
+- Condom use, pornography consumption, and HIV pre-exposure prophylaxis. Independent project (2017)  
+- Drosophila genomics and cell senescence. Stephen Helfand, PI (2005-2006)  
+- Plant phloem genomics. Brian Ayre, PI (2004)  
 
-#### SELECTED PUBLICATIONS
+##### SELECTED PUBLICATIONS
 
 “Fatal Encounters with Police” Web application (2021). Available online at: [blacksheepboy.shinyapps.io/fatalencounters/](https://blacksheepboy.shinyapps.io/fatalencounters/){:target="_blank"}
 
@@ -50,6 +56,8 @@ Rouhani S, Park JN, Morales KB, Green TC, Sherman SG (2019). “Harm reduction m
 Sherman SG, Morales KB, Park JN, McKenzie M, Marshall BDL, Green TC (2019). “Acceptability of implementing community-based drug checking services for people who use drugs in three United States cities: Baltimore, Boston and Providence.” International Journal of Drug Policy 68. DOI: [10.1016/j.drugpo.2019.03.003](https://doi.org/10.1016/j.drugpo.2019.03.003)
 
 “Fentanyl Overdose Reduction Checking Analysis Study: Executive Summary.” Report (2018). [americanhealth.jhu.edu/fentanyl.html](https://americanhealth.jhu.edu/fentanyl){:target="_blank"}  
+
+---
 
 #### AWARDS
 
