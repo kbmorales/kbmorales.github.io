@@ -14,7 +14,7 @@ description: projects
 
 A web app done in R with the Shiny framework for visualizing the online database [Fatal Encounters](https://fatalencounters.org/), a crowd-sourced effort to document all deaths where police are present. Computes relative risks of police-involved death by race.
 
-![Fatal Encounters Data Viz 2](/files/projects/fe_viz_2.png#scaled)
+![Fatal Encounters Data Viz 2](/files/projects/fe_viz_2.PNG#scaled)
 
 Available online at:  
 [blacksheepboy.shinyapps.io/fatalencounters/](https://blacksheepboy.shinyapps.io/fatalencounters/){:target="_blank"}
@@ -27,7 +27,7 @@ Available online at:
 
 An investigation into the 22 million comments filed online to the [Federal Communications Commission's proposed 2017 rule change](https://www.fcc.gov/restoring-internet-freedom-comments-wc-docket-no-17-108) regarding "net neutrality," revealing a massive astroturfing campaign lead by the largest telecom companies in the United States. We found that 18 million of these comments had indications that they were fake.
 
-![FCC Report](/files/projects/fcc_1.png#scaled)
+![FCC Report](/files/projects/fcc_1.PNG#scaled)
 
 Available online at:  
 [https://ag.ny.gov/press-release/2021/attorney-general-james-issues-report-detailing-millions-fake-comments-revealing](https://ag.ny.gov/press-release/2021/attorney-general-james-issues-report-detailing-millions-fake-comments-revealing){:target="_blank"}
@@ -53,7 +53,7 @@ Available online at:
 
 As part of a collaboration between [DataKind](https://www.datakind.org/) and the [National Press Foundation](https://nationalpress.org/), I developed a R package that reads and cleans Payment Protection Program loans data released for 2020 for easy analysis.
 
-![PPP R Package](/files/projects/ppp_r_pkg_1.png#scaled)
+![PPP R Package](/files/projects/ppp_r_pkg_1.PNG#scaled)
 
 Available online at:  
 [https://github.com/kbmorales/PPP](https://github.com/kbmorales/PPP)
@@ -68,7 +68,7 @@ A [Bloomberg American Health Initiative](https://americanhealth.jhu.edu/) study 
 
 Articles I co-authored that came out of this research are listed in my [resume](/cv/index.html#selected-publications).
 
-![PPP R Package](/files/projects/fentanyl_1.png#scaled)
+![PPP R Package](/files/projects/fentanyl_1.PNG#scaled)
 
 Available online at:  
 [https://americanhealth.jhu.edu/fentanyl](https://americanhealth.jhu.edu/fentanyl)
