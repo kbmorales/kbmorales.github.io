@@ -8,12 +8,14 @@ description: Ken B Morales, data scientist
 <div class="col-1-2">
 <div class="content">
 ![Hi I am kenny](files/me_circle_2_bw.png)
+<div class="content caption">
+*Photo by [Victor G. Jeffreys II](https://www.victorjeffreys.com/){:target="_blank"}*
 </div>
 </div>
-<div class="col-1-2 vertical-center">
+</div>
+<div class="col-1-2">
 <div class="content">
 ## Hi, I'm Ken
-
 <p class="copy">        
 I am passionate about the uses of big and small data for social justice. I work with Python and R.
 </p>
@@ -28,7 +30,4 @@ I currently live in Brooklyn, New York. Feel free to reach out via any of the co
 </p>
 </div>
 </div>
-</div>
-<div class="content caption">
-*Photo by [Victor G. Jeffreys II](https://www.victorjeffreys.com/){:target="_blank"}*
 </div>
