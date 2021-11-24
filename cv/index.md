@@ -4,7 +4,7 @@ title: Resume - Ken Morales
 description: Current resume for Ken B Morales, data scientist
 ---
 
-<!-- <a href="/files/kbmorales_cv.pdf" target = "_blank">Download PDF</a> -->
+<a href="/files/kbmorales_resume.pdf" target = "_blank">Download PDF</a>
 
 ### Kenneth B. Morales
 
