@@ -102,31 +102,9 @@ content {
     width: 100%;
 }
 
-@media (max-width: 800px) {
-    body {
-        padding-left: 30px;
-        padding-right: 30px;
-    }
-    h2 {
-        margin-bottom: 0;
-        margin-top: 0;
-    }
-    .grid {
-        grid-template-columns: 100%;
-        grid-gap: 0;
-    }
-}
-
 img {
     max-width: 100%;
     display: block;
-}
-
-img[src*="#scaled"] {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 20px;
 }
 
 .label {
@@ -153,14 +131,14 @@ p.copy {
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
 }
 
 .project p {
     font-size: 1.25em;
     margin-bottom: 20px;
 }
-
-/* TODO: for mobile, change flex-direction to column and flex-flow to wrap*/
 
 .project-description {
     flex-grow: 1;
@@ -171,4 +149,34 @@ p.copy {
     flex-grow: 2;
     flex: 0 0 60%;
     margin-left: 30px;
+}
+
+@media (max-width: 800px) {
+    body {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    h2 {
+        margin-bottom: 0;
+        margin-top: 0;
+    }
+    .grid {
+        grid-template-columns: 100%;
+        grid-gap: 0;
+    }
+    .project {
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+    }
+
+    .project-description, .project-image {
+        flex: 1 0 100%;
+    }
+
+    .project-image {
+        margin-left: 0;
+        padding-left: 0;
+        padding-right: 0;
+    }
 }
