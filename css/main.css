@@ -1,6 +1,8 @@
 body {
     margin: 60px auto;
-    width: 70%;
+    padding: 0 60px;
+    max-width: 1200px;
+    box-sizing: border-box;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -15,7 +17,6 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color: #00A522;
-    /* color: #999; */
 }
 a:hover {
     text-decoration: underline;
@@ -28,6 +29,8 @@ h1 {
 h2 {
     font-size: 2.25em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    margin-bottom: 15px;
+    margin-top: 15px;
 }
 
 h3 {
@@ -65,8 +68,10 @@ ul {
 }
 
 footer {
+    display: block;
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+    max-width: 1200px;
 }
 
 ul.posts { 
@@ -79,23 +84,18 @@ ul.posts li {
 }
 
 .grid {
-    /* display: flex; */
     display: grid;
-    grid-template-columns: 50% 50%;
+    grid-template-columns: minmax(0, 50%) minmax(0, 50%);
     grid-gap: 50px;
     clear: both;
     padding: 10px;
-    /* font-size: 1.6em; */
-    width: 100%;
+    align-items: center;
+    justify-content: center;
  }
 
 .col-1-2 {
     width: 100%;
     padding: 10px;
-}
-
-.col-1-2:last-child {
-    margin-left: 20px;
 }
 
 content {
@@ -106,19 +106,6 @@ img {
     max-width: 100%;
     display: block;
 }
-
-img[src*="#scaled"] {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 20px;
-}
-
-.vertical-center {
-    min-height: 100%;
-    display: flex;
-    align-items: center;
-  }
 
 .label {
     margin-top:0;
@@ -132,6 +119,7 @@ img[src*="#scaled"] {
 .caption {
     font-size: .6em;
     margin-bottom: 30px;
+    margin-top: 20px;
 }
 
 p.copy {
@@ -143,14 +131,14 @@ p.copy {
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
 }
 
 .project p {
     font-size: 1.25em;
     margin-bottom: 20px;
 }
-
-/* TODO: for mobile, change flex-direction to column and flex-flow to wrap*/
 
 .project-description {
     flex-grow: 1;
@@ -161,4 +149,34 @@ p.copy {
     flex-grow: 2;
     flex: 0 0 60%;
     margin-left: 30px;
+}
+
+@media (max-width: 800px) {
+    body {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    h2 {
+        margin-bottom: 0;
+        margin-top: 0;
+    }
+    .grid {
+        grid-template-columns: 100%;
+        grid-gap: 0;
+    }
+    .project {
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+    }
+
+    .project-description, .project-image {
+        flex: 1 0 100%;
+    }
+
+    .project-image {
+        margin-left: 0;
+        padding-left: 0;
+        padding-right: 0;
+    }
 }
